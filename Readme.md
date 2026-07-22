@@ -89,16 +89,13 @@ Switch(config-if)# exit
 ## Step 5: Setting up IP addresses
 | Device   | Switch  | VLAN | IP Address    |
 |----------|---------|------|---------------|
-| PC0      | Switch0 | 10   | 192.168.1.10  |
-| PC0(1)   | Switch0 | 10   | 192.168.1.11  |
-| PC0(2)   | Switch0 | 30   | 192.168.1.20  |
-| PC0(3)   | Switch1 | 30   | 192.168.2.20  |
-| PC0(4)   | Switch1 | 1    | 192.168.2.10  |
-| PC0(5)   | Switch2 | 20   | 192.168.3.10  |
-| PC0(6)   | Switch2 | 20   | 192.168.3.11  |
-| Router0  | G0/0.10 | 10   | 192.168.1.1   |
-| Router0  | G0/0.20 | 20   | 192.168.3.1   |
-| Router0  | G0/0.30 | 30   | 192.168.2.1   |
+| PC0      | Switch0 | 10   | 192.168.1.1   |
+| PC0(1)   | Switch0 | 10   | 192.168.1.2   |
+| PC0(2)   | Switch0 | 30   | 192.168.1.3   |
+| PC0(3)   | Switch1 | 30   | 192.168.2.1   |
+| PC0(4)   | Switch1 | 1    | 192.168.2.2   |
+| PC0(5)   | Switch2 | 20   | 192.168.3.1   |
+| PC0(6)   | Switch2 | 20   | 192.168.3.2   |
 
 <img width="867" height="881" alt="image" src="https://github.com/user-attachments/assets/97f01b4e-8fad-406b-a4eb-7169053a8f8c" />
 
