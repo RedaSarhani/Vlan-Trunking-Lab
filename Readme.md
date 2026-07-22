@@ -86,7 +86,7 @@ Switch(config-if)# exit
 
 <img width="650" height="197" alt="image" src="https://github.com/user-attachments/assets/c57dbfe3-b904-4f64-8d39-4d1641cd0ed1" />
 
-## Step 5: Setting up IP addresses
+## Step 6: Setting up IP addresses
 | Device   | Switch  | VLAN | IP Address    |
 |----------|---------|------|---------------|
 | PC0      | Switch0 | 10   | 192.168.1.1   |
