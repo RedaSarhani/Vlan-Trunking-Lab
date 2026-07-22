@@ -46,7 +46,6 @@ Switch(config-vlan)# name VLAN30
 Switch(config-vlan)# exit
 
 I repeated this on every switch so all of them know about VLAN 10, 20, and 30.
-<img width="851" height="827" alt="image" src="https://github.com/user-attachments/assets/0c18236d-27a5-40bc-b347-8e910e18eb14" />
 <img width="776" height="460" alt="image" src="https://github.com/user-attachments/assets/b7d0e831-9853-41f5-a2b2-a75cddcfb887" />
 
 ## Step 3: Configuring VTP (server/client mode)
